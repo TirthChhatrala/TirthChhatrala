@@ -34,5 +34,3 @@
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/tirth.chhatrala.3?mibextid=ZbWKwL" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/tirth_chhatrala/?igsh=MWVpbTlmeXQ2b3o4OA%3D%3D#" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="undefinedhttps://medium.com/@tirthchhatrala" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TirthChhatrala&show_icons=true&locale=en" alt="TirthChhatrala" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TirthChhatrala" alt="TirthChhatrala" /></a></p>
