@@ -1,7 +1,7 @@
 ### <div align="center">I’m Tirth Chhatrala, a passionate full-stack developer 👨‍💻 focused on building modern, scalable web applications 🚀</div>  
   
 
-- 🔭 I’m currently working on MERN-stack projects, including Next.js + Sanity CMS based applications  
+- 🔭 I’m currently working on MERN-stack projects. 
   
 
 - 🌱 I’m currently learning advanced React patterns, backend scalability, and cloud-native tools  
