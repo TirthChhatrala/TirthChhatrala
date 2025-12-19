@@ -68,10 +68,4 @@
 
 ---
 
-## 🔥 Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TirthChhatrala&theme=radical)](https://git.io/streak-stats)
-
----
-
 ⭐ **From [Tirth Chhatrala](https://github.com/TirthChhatrala)**
