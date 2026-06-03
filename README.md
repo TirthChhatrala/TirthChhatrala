@@ -1,22 +1,26 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HERO BANNER                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                     HERO BANNER                          -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Tirth%20Chhatrala&fontSize=65&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED INTRO                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Tirth%20Chhatrala&fontSize=60&fontColor=fff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Cloud%20Builder&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=650&lines=Hey+there%2C+I%27m+Tirth+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+Stack;Building+scalable+web+applications;AI+%2B+Cloud+%2B+Modern+Web+%E2%9A%A1;Open+to+collaborate+%26+innovate+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  ANIMATED TYPING INTRO                   -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=50&lines=Hey+there%2C+I%27m+Tirth+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+Stack;Building+Scalable+Web+Applications;AI+%2B+Cloud+%2B+Modern+Web+%E2%9A%A1;Open+to+Collaborate+%26+Innovate+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Social quick links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tirthchhatrala)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tirthchhatrala)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tirthchhatrala@email.com)
 
 <br/>
 
@@ -26,20 +30,26 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ABOUT ME SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                    ABOUT ME SECTION                      -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif"/>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+
+</div>
+
+<br/>
 
 I'm a **passionate Full Stack Developer** who thrives at the intersection of clean architecture, thoughtful UI, and intelligent automation. From idea to production — I own the full journey.
 
 ```yaml
-name: Tirth Chhatrala
-role: Full Stack Developer
-location: India 🇮🇳
+name:       Tirth Chhatrala
+role:       Full Stack Developer
+location:   India 🇮🇳
 focus:
   - MERN Stack Applications
   - AI-Powered Web Solutions
@@ -47,13 +57,10 @@ focus:
   - Scalable Backend Systems
 philosophy: "Clean code is not written by following rules.
               It is written by someone who cares."
-status: Open to exciting opportunities 🚀
+status:     Open to exciting opportunities 🚀
 ```
 
 <br/>
-<br/>
-
-<!-- Quick Highlights -->
 
 🔭 &nbsp;Currently building **AI-integrated web platforms** and **LMS solutions**  
 🌱 &nbsp;Deepening expertise in **System Design**, **Kubernetes**, and **Cloud-Native Dev**  
@@ -67,11 +74,11 @@ status: Open to exciting opportunities 🚀
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   TECH STACK SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                   TECH STACK SECTION                     -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"/> Tech Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> Tech Arsenal
 
 <div align="center">
 
@@ -146,37 +153,31 @@ status: Open to exciting opportunities 🚀
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 FEATURED PROJECTS SECTION                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                FEATURED PROJECTS SECTION                 -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/> Featured Projects
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="3"/>
-
-</div>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"/> Featured Projects
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🎓 GyanSetu LMS Platform
 
-<img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=flat-square"/>
-<img src="https://img.shields.io/badge/Stack-MERN-blue?style=flat-square"/>
+![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-MERN-blue?style=flat-square)
 
 A **complete online learning management system** designed for modern education.
 
 **Core Features:**
-- 📹 Video lesson streaming & course creation engine
-- 📝 Quiz and assessment system with real-time feedback
+- 📹 Video lesson streaming & course creation
+- 📝 Quiz and assessment with real-time feedback
 - 💳 Payment gateway integration for monetization
-- 🔐 Secure authentication with role-based access control
-- 📊 Progress tracking dashboard for students & instructors
+- 🔐 Secure authentication with role-based access
+- 📊 Progress tracking for students & instructors
 
 **Tech:** `React` `Node.js` `Express` `MongoDB` `JWT` `Stripe`
 
@@ -185,14 +186,14 @@ A **complete online learning management system** designed for modern education.
 
 ### 🤖 AI Document Processing Suite
 
-<img src="https://img.shields.io/badge/Status-Active-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Stack-AI%20%2B%20Node.js-purple?style=flat-square"/>
+![Status](https://img.shields.io/badge/Status-Active-orange?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-AI%20%2B%20Node.js-purple?style=flat-square)
 
 **Intelligent document automation** for modern enterprise workflows.
 
 **Core Features:**
-- 📄 Smart document conversion & format transformation
-- 🔍 AI-powered content extraction and classification
+- 📄 Smart document conversion & transformation
+- 🔍 AI-powered content extraction & classification
 - ⚡ Workflow automation with scheduled processing
 - 🔗 REST API integration for third-party services
 - 📈 Analytics dashboard for processing insights
@@ -207,17 +208,17 @@ A **complete online learning management system** designed for modern education.
 
 ### 📱 Progressive Web Applications
 
-<img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square"/>
-<img src="https://img.shields.io/badge/Stack-React%20%2B%20PWA-teal?style=flat-square"/>
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-React%20%2B%20PWA-teal?style=flat-square)
 
 **Offline-first web apps** that feel native across all devices.
 
 **Core Features:**
-- ⚡ Offline-first architecture with service workers
+- ⚡ Offline-first with service workers
 - 🔔 Push notifications for real-time engagement
 - 📲 Installable on mobile & desktop devices
 - 🎨 Pixel-perfect responsive design systems
-- 🚀 Lighthouse score optimized performance
+- 🚀 Lighthouse-score optimized performance
 
 **Tech:** `React` `Next.js` `Workbox` `IndexedDB` `CSS3`
 
@@ -226,8 +227,8 @@ A **complete online learning management system** designed for modern education.
 
 ### 👁️ Computer Vision Projects
 
-<img src="https://img.shields.io/badge/Status-Research%20%26%20Dev-yellow?style=flat-square"/>
-<img src="https://img.shields.io/badge/Stack-Python%20%2B%20OpenCV-red?style=flat-square"/>
+![Status](https://img.shields.io/badge/Status-Research%20%26%20Dev-yellow?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Python%20%2B%20OpenCV-red?style=flat-square)
 
 **Real-time vision intelligence** for interactive human-computer interfaces.
 
@@ -250,24 +251,22 @@ A **complete online learning management system** designed for modern education.
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               DEVELOPMENT PHILOSOPHY                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--              DEVELOPER PHILOSOPHY SECTION                -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🧠 Developer Philosophy
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" alt="developer philosophy"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320" alt="developer coding"/>
 
-</div>
+<br/><br/>
 
-<br/>
+> *"First, solve the problem. Then, write the code."*
 
-<div align="center">
+> *"Clean architecture is a love letter to your future self."*
 
-> *"First, solve the problem. Then, write the code."*  
-> *"Clean architecture is a love letter to your future self."*  
 > *"The best code is the code that never needs to be explained."*
 
 </div>
@@ -289,127 +288,58 @@ A **complete online learning management system** designed for modern education.
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               LEARNING JOURNEY & GOALS                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--             LEARNING JOURNEY & GOALS SECTION             -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🗺️ Learning Journey & Current Focus
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=A9FEF7&center=true&vCenter=true&width=600&lines=Currently+exploring+System+Design+at+scale...;Mastering+Kubernetes+%26+container+orchestration...;Building+with+AWS+%26+Google+Cloud+Platform...;Diving+deeper+into+AI+integrations+%26+LLMs...;Crafting+cloud-native+microservices..." alt="Learning Typing SVG"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=2500&pause=800&color=A9FEF7&center=true&vCenter=true&random=false&width=580&height=40&lines=Currently+exploring+System+Design+at+scale...;Mastering+Kubernetes+%26+container+orchestration...;Building+with+AWS+%26+Google+Cloud+Platform...;Diving+deeper+into+AI+integrations+%26+LLMs...;Crafting+cloud-native+microservices...)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<table align="center">
-<tr>
-<td align="center" width="200">
+<div align="center">
 
-🏗️  
-**System Design**  
-Distributed systems,  
-scalability patterns
+| 🏗️ System Design | ☸️ Kubernetes | ☁️ Cloud Native | 🤖 AI Integration |
+|:---:|:---:|:---:|:---:|
+| Distributed systems | Container orchestration | AWS & GCP solutions | LLM APIs |
+| Scalability patterns | Microservices deployment | Serverless architecture | Intelligent automation |
 
-</td>
-<td align="center" width="200">
-
-☸️  
-**Kubernetes**  
-Container orchestration,  
-microservices deployment
-
-</td>
-<td align="center" width="200">
-
-☁️  
-**Cloud Native**  
-AWS & GCP solutions,  
-serverless architecture
-
-</td>
-<td align="center" width="200">
-
-🤖  
-**AI Integration**  
-LLM APIs, intelligent  
-automation workflows
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 EXPERIENCE HIGHLIGHTS                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--               EXPERIENCE HIGHLIGHTS SECTION              -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## ⚡ Experience Highlights
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="380" alt="dev workspace"/>
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="320" alt="dev workspace"/>
 
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td>
-
-**🌐 Full Stack Web Development**  
-End-to-end MERN stack applications from UI design through backend APIs to production deployment. Strong focus on clean architecture, performance, and security.
-
-</td>
-</tr>
-<tr>
-<td>
-
-**🎨 Modern Frontend Engineering**  
-Component-driven React/Next.js development with TypeScript, Tailwind CSS, and a relentless focus on UX, accessibility, and responsive design across all screen sizes.
-
-</td>
-</tr>
-<tr>
-<td>
-
-**⚙️ Backend & API Development**  
-Designing and building scalable RESTful and GraphQL APIs with Node.js/Express.js, JWT authentication, middleware pipelines, and optimized database schemas.
-
-</td>
-</tr>
-<tr>
-<td>
-
-**📦 Headless CMS Integration**  
-Delivering flexible content management with Sanity and Strapi — enabling editors with powerful tools while keeping developer experience clean and maintainable.
-
-</td>
-</tr>
-<tr>
-<td>
-
-**🐳 DevOps & Cloud Operations**  
-Containerizing applications with Docker, managing deployments, exploring Kubernetes orchestration, and working across AWS and GCP cloud environments.
-
-</td>
-</tr>
-<tr>
-<td>
-
-**🤖 AI & Computer Vision**  
-Building AI-augmented solutions — from document processing automation to real-time hand gesture systems using OpenCV, MediaPipe, and intelligent API integrations.
-
-</td>
-</tr>
-</table>
+| Domain | Expertise |
+|--------|-----------|
+| 🌐 **Full Stack Development** | End-to-end MERN stack apps from UI design through backend APIs to production deployment. Strong focus on clean architecture, performance, and security. |
+| 🎨 **Frontend Engineering** | Component-driven React/Next.js with TypeScript and Tailwind CSS. Relentless focus on UX, accessibility, and responsive design across all screen sizes. |
+| ⚙️ **Backend & API Dev** | Scalable RESTful and GraphQL APIs with Node.js/Express.js, JWT auth, middleware pipelines, and optimized database schemas. |
+| 📦 **Headless CMS** | Flexible content management with Sanity and Strapi — powerful tools for editors with a clean, maintainable developer experience. |
+| 🐳 **DevOps & Cloud** | Containerizing with Docker, managing deployments, exploring Kubernetes orchestration across AWS and GCP environments. |
+| 🤖 **AI & Computer Vision** | AI-augmented solutions — from document processing automation to real-time hand gesture systems using OpenCV, MediaPipe, and intelligent APIs. |
 
 <br/>
 
@@ -417,94 +347,152 @@ Building AI-augmented solutions — from document processing automation to real-
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               OPEN SOURCE & COMMUNITY                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--              OPEN SOURCE & COMMUNITY SECTION             -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🌐 Open Source & Community
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="github"/>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="90" alt="github"/>
 
 </div>
 
 <br/>
 
-I believe strongly in the **open-source ecosystem** that powers modern development. Some of how I contribute and engage:
+I believe strongly in the **open-source ecosystem** that powers modern development. Here's how I contribute and engage:
 
 - 🛠️ **Building** reusable components, utilities, and starter templates
 - 📝 **Documenting** projects thoroughly so others can learn and contribute
 - 🔍 **Reviewing** code and providing constructive feedback on community PRs
-- 🐛 **Reporting** issues and helping debug open projects I use
+- 🐛 **Reporting** issues and helping debug open projects I use daily
 - 📣 **Sharing** knowledge through clear commit histories and READMEs
 - 🤝 **Collaborating** with developers across domains and skill levels
 
-> _"Open source is not just a license. It's a mindset of generosity."_
-
 <br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   FUN FACTS SECTION                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🎉 Fun Facts About Me
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=1000&color=F7B731&center=true&vCenter=true&width=550&lines=console.log(%22Let%27s+get+to+know+me!%22)" alt="Fun Facts Typing"/>
+> _"Open source is not just a license. It's a mindset of generosity."_
 
 </div>
 
 <br/>
 
-```javascript
-const tirthFacts = {
-  morningRoutine:    "Coffee ☕ → VS Code → Fix yesterday's bugs",
-  debuggingStyle:    "console.log('here'), console.log('here2'), console.log('WHY')",
-  superpower:        "Turning 'it works on my machine' into 'it works everywhere'",
-  hiddenTalent:      "Reading stack traces like bedtime stories",
-  favoriteError:     "Cannot read properties of undefined 😅",
-  lifePhilosophy:    "Any app can be improved; ship it, iterate, improve",
-  weekendActivity:   "Building side projects that turn into main projects",
-  deepestFear:       "Forgetting to push before closing the laptop",
-  proudestMoment:    "When juniors say 'your code helped me understand this'",
-  currentObsession:  "Making everything containerized and cloud-ready 🐳",
-};
-```
-
-<br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 DEVELOPMENT WORKFLOW                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--               DEVELOPMENT WORKFLOW SECTION               -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🔄 Development Workflow
 
 <div align="center">
 
-```
-  IDEATION         DESIGN          BUILD           TEST           DEPLOY
-     💡      →       🎨      →      ⚙️       →      🧪      →       🚀
-  Research      Architecture     Coding          Testing        CI/CD Pipeline
-  Planning      UI/UX Design     Clean Code      Code Review    Monitoring
-  Requirements  System Design    Git Flow        Edge Cases     Documentation
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2800&pause=900&color=A9FEF7&center=true&vCenter=true&random=false&width=560&height=35&lines=Plan+it.+Design+it.+Build+it.+Test+it.+Ship+it.+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="19%">
+
+![Ideation](https://img.shields.io/badge/01-IDEATION-6C63FF?style=for-the-badge)
+
+💡
+
+**Research**
+Planning
+Requirements
+Problem Definition
+
+</td>
+<td align="center" width="4%">
+
+➜
+
+</td>
+<td align="center" width="19%">
+
+![Design](https://img.shields.io/badge/02-DESIGN-E91E8C?style=for-the-badge)
+
+🎨
+
+**UI / UX**
+Architecture
+System Design
+Wireframing
+
+</td>
+<td align="center" width="4%">
+
+➜
+
+</td>
+<td align="center" width="19%">
+
+![Build](https://img.shields.io/badge/03-BUILD-00C896?style=for-the-badge)
+
+⚙️
+
+**Clean Code**
+Git Flow
+Components
+API Integration
+
+</td>
+<td align="center" width="4%">
+
+➜
+
+</td>
+<td align="center" width="19%">
+
+![Test](https://img.shields.io/badge/04-TEST-F7B731?style=for-the-badge)
+
+🧪
+
+**Unit Tests**
+Code Review
+Edge Cases
+Performance
+
+</td>
+<td align="center" width="4%">
+
+➜
+
+</td>
+<td align="center" width="19%">
+
+![Deploy](https://img.shields.io/badge/05-DEPLOY-00D9FF?style=for-the-badge)
+
+🚀
+
+**CI/CD**
+Monitoring
+Logging
+Documentation
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-**My process is deliberate:**  
-Every feature starts with a clear **why**, followed by careful architecture planning, test-first development, thorough review, and clean production deployment. I never cut corners on code quality — _maintainability is a feature_.
+<div align="center">
+
+> 💬 **My process is deliberate** — every feature starts with a clear **why**, followed by careful architecture planning, test-first development, thorough review, and clean production deployment.
+
+> 🔑 **Core belief:** _Maintainability is a feature. I never cut corners on code quality._
+
+</div>
+
 
 <br/>
 
@@ -512,21 +500,17 @@ Every feature starts with a clear **why**, followed by careful architecture plan
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               PERSONAL BRAND SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--               PERSONAL BRAND SECTION                     -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🌟 Personal Brand
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="320" alt="coder at work"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="coder at work"/>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 | 🧬 Identity | 🎯 Values | 🛡️ Principles |
 |:-----------:|:---------:|:-------------:|
@@ -548,18 +532,17 @@ Every feature starts with a clear **why**, followed by careful architecture plan
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CONNECT WITH ME                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                 CONNECT WITH ME SECTION                  -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55" alt="wave"/>
 
-<br/>
-<br/>
+<br/><br/>
 
 _I'm always open to exciting conversations, project collaborations, and new opportunities._
 
@@ -571,16 +554,29 @@ _I'm always open to exciting conversations, project collaborations, and new oppo
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tirthchhatrala@email.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
-</div>
 
 <br/>
 
 <div align="center">
 
-```
-If you're building something ambitious and need a developer who cares deeply
-about craft, scalability, and impact — let's talk. I'm ready. 🚀
-```
+### 💼 Ready to Build Something Great Together?
+
+<br/>
+
+![CTA](https://img.shields.io/badge/Available%20for-Freelance%20%7C%20Full--Time%20%7C%20Collaboration-00D9FF?style=for-the-badge&logo=rocket&logoColor=white)
+
+<br/>
+
+> 🚀 **If you're building something ambitious** — a product that demands clean architecture,  
+> scalable systems, and an engineer who genuinely cares about the outcome —  
+> **I'm the developer you're looking for. Let's talk.**
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&random=false&width=540&height=40&lines=Open+to+exciting+opportunities+%F0%9F%9A%80;Let%27s+build+something+extraordinary+together!;Craft+%2B+Scalability+%2B+Impact+%3D+My+Standard)](https://git.io/typing-svg)
+
+</div>
+
 
 </div>
 
@@ -590,25 +586,31 @@ about craft, scalability, and impact — let's talk. I'm ready. 🚀
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               CLOSING CALL TO ACTION                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--              CLOSING FOOTER SECTION (FIXED)              -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70"/>
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="65" alt="thanks"/>
 
-### Thanks for visiting! ✨
+<br/><br/>
 
-_If you found my profile interesting, consider dropping a ⭐ on any repo you like!_  
+### 🙏 Thanks for Visiting!
+
+_If my profile sparked your interest, consider dropping a_ ⭐ _on a repo you like!_  
 _It means more than you know and keeps the motivation going._ 😊
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Keep+building.+Keep+learning.+Keep+shipping+%F0%9F%9A%80;Open+to+freelance%2C+full-time+%26+collaborations;Let%27s+create+something+extraordinary+together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=540&height=40&lines=Keep+building.+Keep+learning.+Keep+shipping+%F0%9F%9A%80;Open+to+freelance%2C+full-time+%26+collaborations;Let%27s+create+something+extraordinary+together!)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
+_Made with ❤️ by **Tirth Chhatrala** · Full Stack Developer · India 🇮🇳_
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Let%27s%20Build%20Something%20Great&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
