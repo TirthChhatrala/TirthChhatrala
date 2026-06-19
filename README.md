@@ -2,7 +2,7 @@
 
 **Full Stack Developer · MERN Stack · AI & Cloud**
 
-India 🇮🇳 &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/tirthchhatrala) &nbsp;|&nbsp; [GitHub](https://github.com/tirthchhatrala) &nbsp;|&nbsp; [Email](mailto:tirthchhatrala@email.com) 
+India 🇮🇳 &nbsp;|&nbsp; [LinkedIn]([https://linkedin.com/in/tirthchhatrala](https://www.linkedin.com/in/tirth-chhatrala-b7815a219/)) &nbsp;|&nbsp; [GitHub](https://github.com/tirthchhatrala) &nbsp;|&nbsp; [Email](mailto:tirthchhatrala@email.com) 
 
 ---
 
